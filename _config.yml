@@ -126,7 +126,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/remi-arata/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-link"
       url: "github.com/RemiArata"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
