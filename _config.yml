@@ -131,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "CV"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/assets/PDF/Resume-no-phone.pdf"
 
 # Site Footer
 footer:
